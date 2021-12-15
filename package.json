@@ -1,0 +1,18 @@
+{
+  "name": "project-bismillah",
+  "version": "1.0.0",
+  "description": "Tugas OSIG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "kel7",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "pg-promise": "^10.11.1"
+  }
+}
